@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background: #e0e0e0; 
 }
@@ -9,3 +10,16 @@ body {
 a:hover {
     color: black;
 }
+=======
+body {
+    background: #e0e0e0; 
+}
+
+.links{
+    font-size: 20px;
+}
+
+a:hover {
+    color: black;
+}
+>>>>>>> 16c7802bfe1c63080e7242c861037c5c65b3676f
